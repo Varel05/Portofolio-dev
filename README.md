@@ -14,4 +14,5 @@
   Scikit-learn · TensorFlow · PyTorch · SQL · Tableau
 
 📫 Hubungi saya: vareldeva75@gmail.com | LinkedIn: https://www.linkedin.com/in/varel-deva-a73b09235/
+
 ⚡ Fun fact: saya percaya bahwa semua masalah bisa dijelaskan dengan data.

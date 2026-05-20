@@ -68,12 +68,7 @@ me = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Varel05" height="160" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Varel05&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Varel05&theme=tokyonight&hide_border=true" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varel05)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---

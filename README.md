@@ -68,7 +68,7 @@ me = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=Varel05)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=Varel05)](https://github.com/anuraghazra/github-readme-stats" />
 </p>
 
 ---

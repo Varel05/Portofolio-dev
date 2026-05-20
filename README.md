@@ -1,18 +1,113 @@
-👋 Halo! Saya mahasiswa Teknik Informatika yang berfokus pada Machine Learning dan Data Analysis.
+<h1 align="center">Halo, saya [Nama Kamu] 👋</h1>
 
-🔭 Saat ini saya sedang mengerjakan proyek klasifikasi & prediksi menggunakan supervised learning dan eksplorasi data besar dengan teknik visualisasi interaktif.
+<p align="center">
+  <em>Mahasiswa Teknik Informatika · Machine Learning & Data Analysis Enthusiast</em>
+</p>
 
-🌱 Sedang mempelajari: Deep Learning, NLP, dan MLOps pipeline.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B8BEB&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer+in+Progress;Data+Tells+a+Story%2C+I+Listen;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
 
-💡 Minat utama:
-  • Membangun model ML yang interpretatif dan efisien
-  • Transformasi data mentah menjadi insight yang actionable
-  • Riset terapan di bidang AI untuk konteks Indonesia
+---
 
-🛠️ Tech Stack:
-  Python · Jupyter · Pandas · NumPy · Matplotlib · Seaborn
-  Scikit-learn · TensorFlow · PyTorch · SQL · Tableau
+## 🧑‍💻 Tentang Saya
 
-📫 Hubungi saya: vareldeva75@gmail.com | LinkedIn: https://www.linkedin.com/in/varel-deva-a73b09235/
+Saya adalah mahasiswa **Teknik Informatika** yang berfokus pada bidang **Machine Learning** dan **Data Analysis**. Saya percaya bahwa data memiliki cerita yang menunggu untuk ditemukan — dan tugas saya adalah menemukannya.
 
-⚡ Fun fact: saya percaya bahwa semua masalah bisa dijelaskan dengan data.
+- 🎓 Mahasiswa aktif jurusan Teknik Informatika
+- 🔭 Sedang mengerjakan proyek **klasifikasi teks** dan **analisis data publik Indonesia**
+- 🌱 Sedang mempelajari **Deep Learning**, **NLP**, dan **MLOps**
+- 💡 Tertarik pada penerapan AI untuk memecahkan masalah nyata di Indonesia
+- ⚡ Fun fact: saya lebih suka debugging sambil ngopi daripada tanpa ngopi
+
+---
+
+## 🛠️ Tech Stack
+
+### Bahasa Pemrograman
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### Machine Learning & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Visualisasi Data
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### Tools & Platform
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📌 Fokus & Minat
+
+```python
+me = {
+    "nama"      : "Nama Kamu",
+    "universitas": "Universitas Kamu",
+    "jurusan"   : "Teknik Informatika",
+    "fokus"     : ["Machine Learning", "Data Analysis", "Deep Learning", "NLP"],
+    "tools"     : ["Python", "TensorFlow", "Pandas", "SQL", "Jupyter"],
+    "sedang_belajar": ["MLOps", "Computer Vision", "Time Series Forecasting"],
+    "terbuka_untuk" : ["Kolaborasi riset", "Open source", "Diskusi data"],
+}
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Proyek Unggulan
+
+| Proyek | Deskripsi | Tech |
+|--------|-----------|------|
+| 🔍 [Nama Proyek 1](https://github.com/USERNAME_KAMU/proyek1) | Klasifikasi sentimen ulasan produk berbahasa Indonesia | Python, BERT, Scikit-learn |
+| 📈 [Nama Proyek 2](https://github.com/USERNAME_KAMU/proyek2) | Dashboard analisis data ekonomi Indonesia interaktif | Pandas, Tableau, SQL |
+| 🤖 [Nama Proyek 3](https://github.com/USERNAME_KAMU/proyek3) | Prediksi harga menggunakan model regresi ensemble | XGBoost, LightGBM, Matplotlib |
+
+---
+
+## 📫 Hubungi Saya
+
+<p align="left">
+  <a href="mailto:email@kamu.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/USERNAME_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/USERNAME_IG">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=Profile+Views&color=3B8BEB&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <em>"In God we trust; all others must bring data." — W. Edwards Deming</em>
+</p>

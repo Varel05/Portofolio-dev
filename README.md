@@ -69,8 +69,8 @@ me = {
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=Varel05" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Varel05&layout=compact&theme=tokyonight&hide_border=true" /> 
+  <!-- Pakai GitHub native stats via profile README trick -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME_KAMU&theme=tokyonight)
 </p>
 
 ---

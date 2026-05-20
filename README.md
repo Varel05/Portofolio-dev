@@ -1,4 +1,4 @@
-<h1 align="center">Halo, saya [Nama Kamu] 👋</h1>
+<h1 align="center">Halo, saya Varel Deva Dewangga 👋</h1>
 
 <p align="center">
   <em>Mahasiswa Teknik Informatika · Machine Learning & Data Analysis Enthusiast</em>
@@ -53,8 +53,8 @@ Saya adalah mahasiswa **Teknik Informatika** yang berfokus pada bidang **Machine
 
 ```python
 me = {
-    "nama"      : "Nama Kamu",
-    "universitas": "Universitas Kamu",
+    "nama"      : "Varel Deva Dewangga",
+    "universitas": "Universitas Duta Bangsa Surakarta",
     "jurusan"   : "Teknik Informatika",
     "fokus"     : ["Machine Learning", "Data Analysis", "Deep Learning", "NLP"],
     "tools"     : ["Python", "TensorFlow", "Pandas", "SQL", "Jupyter"],
@@ -91,10 +91,10 @@ me = {
 ## 📫 Hubungi Saya
 
 <p align="left">
-  <a href="mailto:email@kamu.com">
+  <a href="vareldeva75@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN">
+  <a href="https://linkedin.com/in/USERNAME_LINKEDIN](https://www.linkedin.com/in/varel-deva-a73b09235/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/USERNAME_IG">

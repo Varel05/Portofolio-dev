@@ -68,7 +68,7 @@ me = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Varel05" />
+  <img src="[https://github-stats-alpha.vercel.app/api?username=Varel05](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varel05&theme=tokyonight)" />
   <!-- Pakai GitHub native stats via profile README trick -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varel05&theme=tokyonight)
 </p>
